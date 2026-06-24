@@ -33,6 +33,12 @@ Use these repository-hosted links to share the chart directly:
 - [PDF version](images/Citizenship%20Application-v2.pdf)
 - [SVG version](images/irish-citizenship-application-flowchart.svg)
 
+Source originals (as uploaded):
+
+- [PNG source file](source/Citizenship%20Application-v2.png)
+- [JPG source file](source/Citizenship%20Application-v2.jpg)
+- [PDF source file](source/Citizenship%20Application-v2.pdf)
+
 ## 📁 Repository Contents
 
 - `/images/` – High-resolution PNG/JPG/PDF/SVG versions of the flowchart
