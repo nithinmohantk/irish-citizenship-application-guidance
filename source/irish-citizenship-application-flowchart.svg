@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="3200" viewBox="0 0 1400 3200" role="img" aria-labelledby="title desc">
+  <title id="title">Irish Citizenship (Naturalisation) Application Process Flowchart</title>
+  <desc id="desc">A nine-stage visual guide covering submission, acknowledgement, e-vetting, Garda vetting, ministerial decision, approval and payment, ceremony invitation, certificate issuance, and passport application.</desc>
+  <defs>
+    <style>
+      .bg { fill: #f7fafc; }
+      .title { font: 700 44px 'Arial', sans-serif; fill: #12344d; }
+      .subtitle { font: 400 22px 'Arial', sans-serif; fill: #35566e; }
+      .box-title { font: 700 28px 'Arial', sans-serif; fill: #12344d; }
+      .box-text { font: 400 22px 'Arial', sans-serif; fill: #234; }
+      .stage { fill: #ffffff; stroke: #2b6cb0; stroke-width: 4; }
+      .stage-alt { fill: #edf6ff; stroke: #2b6cb0; stroke-width: 4; }
+      .arrow { stroke: #2b6cb0; stroke-width: 6; fill: none; stroke-linecap: round; stroke-linejoin: round; }
+      .badge { fill: #2b6cb0; }
+      .badge-text { font: 700 24px 'Arial', sans-serif; fill: #ffffff; }
+      .footer { font: 400 20px 'Arial', sans-serif; fill: #4a5568; }
+    </style>
+    <marker id="arrowhead" markerWidth="10" markerHeight="10" refX="5" refY="5" orient="auto" markerUnits="strokeWidth">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#2b6cb0" />
+    </marker>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1400" height="3200" rx="0" />
+
+  <text class="title" x="700" y="90" text-anchor="middle">Irish Citizenship (Naturalisation) Application</text>
+  <text class="subtitle" x="700" y="130" text-anchor="middle">Visual guide to the 9 stages from submission to passport application</text>
+
+  <g transform="translate(130 200)">
+    <rect class="stage" x="0" y="0" width="1140" height="220" rx="24" />
+    <circle class="badge" cx="80" cy="70" r="36" /><text class="badge-text" x="80" y="78" text-anchor="middle">1</text>
+    <text class="box-title" x="150" y="75">Application submission</text>
+    <text class="box-text" x="150" y="120">Submit your naturalisation application with the required forms, fee, and supporting documents.</text>
+    <text class="box-text" x="150" y="160">Keep copies of everything you send for reference during later stages.</text>
+  </g>
+
+  <path class="arrow" d="M700 420 L700 500" marker-end="url(#arrowhead)" />
+
+  <g transform="translate(130 500)">
+    <rect class="stage-alt" x="0" y="0" width="1140" height="220" rx="24" />
+    <circle class="badge" cx="80" cy="70" r="36" /><text class="badge-text" x="80" y="78" text-anchor="middle">2</text>
+    <text class="box-title" x="150" y="75">Acknowledgement</text>
+    <text class="box-text" x="150" y="120">An acknowledgement confirms that your application has been received and entered into processing.</text>
+    <text class="box-text" x="150" y="160">You may need to wait some time before the next request or update arrives.</text>
+  </g>
+
+  <path class="arrow" d="M700 720 L700 800" marker-end="url(#arrowhead)" />
+
+  <g transform="translate(130 800)">
+    <rect class="stage" x="0" y="0" width="1140" height="220" rx="24" />
+    <circle class="badge" cx="80" cy="70" r="36" /><text class="badge-text" x="80" y="78" text-anchor="middle">3</text>
+    <text class="box-title" x="150" y="75">E-Vetting</text>
+    <text class="box-text" x="150" y="120">When requested, complete the online e-vetting process carefully and promptly.</text>
+    <text class="box-text" x="150" y="160">Delays at this stage can slow overall progress, so monitor your email regularly.</text>
+  </g>
+
+  <path class="arrow" d="M700 1020 L700 1100" marker-end="url(#arrowhead)" />
+
+  <g transform="translate(130 1100)">
+    <rect class="stage-alt" x="0" y="0" width="1140" height="220" rx="24" />
+    <circle class="badge" cx="80" cy="70" r="36" /><text class="badge-text" x="80" y="78" text-anchor="middle">4</text>
+    <text class="box-title" x="150" y="75">Garda vetting processing</text>
+    <text class="box-text" x="150" y="120">Garda vetting checks are processed after e-vetting details are submitted.</text>
+    <text class="box-text" x="150" y="160">This stage can take time and usually happens without visible updates to applicants.</text>
+  </g>
+
+  <path class="arrow" d="M700 1320 L700 1400" marker-end="url(#arrowhead)" />
+
+  <g transform="translate(130 1400)">
+    <rect class="stage" x="0" y="0" width="1140" height="220" rx="24" />
+    <circle class="badge" cx="80" cy="70" r="36" /><text class="badge-text" x="80" y="78" text-anchor="middle">5</text>
+    <text class="box-title" x="150" y="75">Ministerial decision</text>
+    <text class="box-text" x="150" y="120">After checks are complete, your application moves to a decision stage under the Minister.</text>
+    <text class="box-text" x="150" y="160">You may be approved, asked for more information, or refused depending on the case.</text>
+  </g>
+
+  <path class="arrow" d="M700 1620 L700 1700" marker-end="url(#arrowhead)" />
+
+  <g transform="translate(130 1700)">
+    <rect class="stage-alt" x="0" y="0" width="1140" height="220" rx="24" />
+    <circle class="badge" cx="80" cy="70" r="36" /><text class="badge-text" x="80" y="78" text-anchor="middle">6</text>
+    <text class="box-title" x="150" y="75">Approval &amp; payment</text>
+    <text class="box-text" x="150" y="120">If approved, you receive an approval letter with instructions to pay the certification fee.</text>
+    <text class="box-text" x="150" y="160">Follow the payment instructions exactly and keep proof of payment for your records.</text>
+  </g>
+
+  <path class="arrow" d="M700 1920 L700 2000" marker-end="url(#arrowhead)" />
+
+  <g transform="translate(130 2000)">
+    <rect class="stage" x="0" y="0" width="1140" height="220" rx="24" />
+    <circle class="badge" cx="80" cy="70" r="36" /><text class="badge-text" x="80" y="78" text-anchor="middle">7</text>
+    <text class="box-title" x="150" y="75">Ceremony invitation</text>
+    <text class="box-text" x="150" y="120">Eligible applicants are invited to a citizenship ceremony after approval and payment are processed.</text>
+    <text class="box-text" x="150" y="160">Your invitation includes the venue, date, and any identification or confirmation you must bring.</text>
+  </g>
+
+  <path class="arrow" d="M700 2220 L700 2300" marker-end="url(#arrowhead)" />
+
+  <g transform="translate(130 2300)">
+    <rect class="stage-alt" x="0" y="0" width="1140" height="220" rx="24" />
+    <circle class="badge" cx="80" cy="70" r="36" /><text class="badge-text" x="80" y="78" text-anchor="middle">8</text>
+    <text class="box-title" x="150" y="75">Certificate issuance</text>
+    <text class="box-text" x="150" y="120">After the ceremony, you receive your certificate of naturalisation.</text>
+    <text class="box-text" x="150" y="160">Store the certificate safely because it is required for future passport applications.</text>
+  </g>
+
+  <path class="arrow" d="M700 2520 L700 2600" marker-end="url(#arrowhead)" />
+
+  <g transform="translate(130 2600)">
+    <rect class="stage" x="0" y="0" width="1140" height="220" rx="24" />
+    <circle class="badge" cx="80" cy="70" r="36" /><text class="badge-text" x="80" y="78" text-anchor="middle">9</text>
+    <text class="box-title" x="150" y="75">Passport application</text>
+    <text class="box-text" x="150" y="120">Once you have your certificate, you can apply for your first Irish passport.</text>
+    <text class="box-text" x="150" y="160">Use the certificate and any other required identity documents to complete the final step.</text>
+  </g>
+
+  <text class="footer" x="700" y="3090" text-anchor="middle">Informational guide only — always check the latest official Irish immigration and citizenship guidance.</text>
+  <text class="footer" x="700" y="3130" text-anchor="middle">© 2026 Nithin Mohan Thattiot Kadumberi · MIT License · Attribution required</text>
+</svg>

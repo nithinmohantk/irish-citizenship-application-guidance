@@ -1,2 +1,63 @@
-# irish-citizenship-application-guidance
-Irish Citizenship Application Guidance mindmaps, and essential information to help you informed through your journey.
+# Irish Citizenship Application – Visual Guidance Chart
+
+A clear, step-by-step visual guide to the Irish Citizenship (Naturalisation) application process.
+This repository hosts a structured flowchart that explains all 9 stages — from initial application submission to receiving your Irish passport.
+
+## 📌 Purpose
+
+The Irish naturalisation process can feel slow and confusing.
+This project provides a simple, visual breakdown of each stage, including:
+
+- Application submission
+- Acknowledgement
+- E-Vetting
+- Garda vetting processing
+- Ministerial decision
+- Approval & payment
+- Ceremony invitation
+- Certificate issuance
+- Passport application
+
+The goal is to help applicants understand where they are in the process and what comes next.
+
+## 🖼 Preview
+
+![Irish Citizenship Application flowchart](images/irish-citizenship-application-flowchart.svg)
+
+## 📁 Repository Contents
+
+- `/images/` – High-resolution PNG/SVG versions of the flowchart
+- `/source/` – Editable design files
+- `README.md` – Documentation
+- `LICENSE` – MIT License
+- `COPYRIGHT` – Copyright notice
+
+## 🚀 How to Use
+
+1. View the flowchart directly in the repository.
+2. Download the PNG/SVG for personal reference.
+3. Share the repo link with others going through the process.
+4. Embed the chart in blogs, community groups, or informational pages (with attribution).
+
+## 🛠 Contributing
+
+Contributions are welcome — especially improvements to clarity, translations, or updated process information.
+
+To contribute:
+
+1. Fork the repository
+2. Create a new branch
+3. Commit your changes
+4. Open a pull request
+
+## 📜 License
+
+This project is licensed under the MIT License.
+See the `LICENSE` file for full details.
+
+## © Copyright
+
+© 2026 Nithin Mohan Thattiot Kadumberi
+Irish Citizenship Application Flowchart
+Released under the MIT License.
+Attribution is required when reusing or modifying the work.
