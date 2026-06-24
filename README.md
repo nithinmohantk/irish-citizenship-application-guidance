@@ -22,11 +22,20 @@ The goal is to help applicants understand where they are in the process and what
 
 ## 🖼 Preview
 
-![Irish Citizenship Application flowchart](images/irish-citizenship-application-flowchart.svg)
+![Irish Citizenship Application flowchart](images/Citizenship%20Application-v2.png)
+
+## 🔗 Direct file links
+
+Use these repository-hosted links to share the chart directly:
+
+- [PNG version](images/Citizenship%20Application-v2.png)
+- [JPG version](images/Citizenship%20Application-v2.jpg)
+- [PDF version](images/Citizenship%20Application-v2.pdf)
+- [SVG version](images/irish-citizenship-application-flowchart.svg)
 
 ## 📁 Repository Contents
 
-- `/images/` – High-resolution PNG/SVG versions of the flowchart
+- `/images/` – High-resolution PNG/JPG/PDF/SVG versions of the flowchart
 - `/source/` – Editable design files
 - `README.md` – Documentation
 - `LICENSE` – MIT License
@@ -35,8 +44,8 @@ The goal is to help applicants understand where they are in the process and what
 ## 🚀 How to Use
 
 1. View the flowchart directly in the repository.
-2. Download the PNG/SVG for personal reference.
-3. Share the repo link with others going through the process.
+2. Download the PNG, JPG, PDF, or SVG for personal reference.
+3. Share the repo link or the direct file links with others going through the process.
 4. Embed the chart in blogs, community groups, or informational pages (with attribution).
 
 ## 🛠 Contributing
